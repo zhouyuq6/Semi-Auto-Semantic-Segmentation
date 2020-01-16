@@ -1,2 +1,2 @@
 # Semi-Automatic-Semantic-Segmentation
-Codes to train CNNs using data from kits19
+Codes to train convolutional neural networks (CNNs) using data from the 2019 Kidney and Kidney Tumor Segmentation Challenge [KiTS19](https://github.com/neheller/kits19). Aim to train and implement a semi-auto segmentation algorithm to seperate a desired organ from CT scans by giving a layer of accurate region of interest (ROI) and multiple CT scans. Network structure is based on U-Net and other versions of it.
